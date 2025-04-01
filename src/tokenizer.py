@@ -24,7 +24,7 @@ from lexer import (
 from typing import Generator
 
 
-MAX_VOCAB_SIZE = 16000
+MAX_VOCAB_SIZE = 5000
 PADDING_TOK = 0
 START_TOK = 1
 EOF_TOK = 2
